@@ -1,0 +1,12 @@
+booking:
+  msg: Welcome to the Paking Booking Dev Git application
+  build-version: 3
+  mailDetails:
+    hostName: default-booking@parking.com
+    port: 8012
+    from: default-booking@parking.com
+    subject: Your Booking Details from Paking Default Environment
+  activeBranches:
+    - Phnom Penh
+    - Kompong Cham
+    - Battombong

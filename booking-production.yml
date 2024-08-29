@@ -1,0 +1,12 @@
+booking:
+  msg: Welcome to the Parking Booking Production Git application 2025
+  build-version: 3
+  mailDetails:
+    hostName: production-booking@parking.com
+    port: 8011
+    from: production-booking@parking.com
+    subject: Your Booking Details from Paking Production Environment
+  activeBranches:
+    - Kandal
+    - Banteay Mean Chey
+    - Svay Reang

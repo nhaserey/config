@@ -1,0 +1,12 @@
+booking:
+  msg: Welcome to the Paking Booking Dev Git application
+  build-version: 3
+  mailDetails:
+    hostName: dev-booking@parking.com
+    port: 8010
+    from: dev-booking@parking.com
+    subject: Your Booking Details from Paking Dev Environment
+  activeBranches:
+    - Kompong Thom
+    - Kompong Cham
+    - Preah Vihear
